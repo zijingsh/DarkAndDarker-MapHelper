@@ -24,7 +24,7 @@
 ```
   Make this work on any display, selectable objects as on https://darkanddarker.map.spellsandguns.com/map/
   Zoom feature
-  Add Ruins
+  Add Ruins, and HR maps
 ```
 
 
