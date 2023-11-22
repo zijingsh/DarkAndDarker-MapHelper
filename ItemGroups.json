@@ -1,0 +1,1072 @@
+{
+  "Accessory": [
+    "Id_Spawner_LootDrop_Accessory_Rare"
+  ],
+  "Altar Of Sacrifice": [
+    "Id_Spawner_Props_AltarOfSacrifice"
+  ],
+  "Arrow": [
+    "Id_Spawner_Lootdrop_Spawn_Arrow"
+  ],
+  "Axe Trap": [
+    "Id_Spawner_Props_TrackAxe"
+  ],
+  "Bandage": [
+    "Id_Spawner_LootDrop_Bandage_HR",
+    "Id_Spawner_LootDrop_Bandage_N",
+    "Id_Spawner_LootDrop_Bandage_G1",
+    "Id_Spawner_LootDrop_Bandage_HR2",
+    "Id_Spawner_LootDrop_Bandage_HR3",
+    "Id_Spawner_LootDrop_Bandage_N1",
+    "Id_Spawner_LootDrop_Bandage_N2",
+    "Id_Spawner_LootDrop_Bandage_N3",
+    "Id_Spawner_LootDrop_Bandage_HR1",
+    "Id_Spawner_LootDrop_Bandage_N0"
+  ],
+  "Barrel": [
+    "Id_Spawner_Props_WoodenBarrel02_HR",
+    "Id_Spawner_Props_WoodenBarrel02_N",
+    "Id_Spawner_Props_WoodenBarrel03_HR",
+    "Id_Spawner_Props_WoodenBarrel03_N",
+    "Id_Spawner_Props_WoodenBarrel04_HR",
+    "Id_Spawner_Props_WoodenBarrel04_N",
+    "Id_Spawner_Props_WoodenBarrel_HR",
+    "Id_Spawner_Props_WoodenBarrel_N",
+    "Id_Spawner_Props_WoodenBarrel01_G1",
+    "Id_Spawner_Props_WoodenBarrel01_HR2",
+    "Id_Spawner_Props_WoodenBarrel01_HR3",
+    "Id_Spawner_Props_WoodenBarrel01_N1",
+    "Id_Spawner_Props_WoodenBarrel01_N2",
+    "Id_Spawner_Props_WoodenBarrel01_N3",
+    "Id_Spawner_Props_WoodenBarrel02_G1",
+    "Id_Spawner_Props_WoodenBarrel02_HR2",
+    "Id_Spawner_Props_WoodenBarrel02_HR3",
+    "Id_Spawner_Props_WoodenBarrel02_N1",
+    "Id_Spawner_Props_WoodenBarrel02_N2",
+    "Id_Spawner_Props_WoodenBarrel02_N3",
+    "Id_Spawner_Props_WoodenBarrel03_G1",
+    "Id_Spawner_Props_WoodenBarrel03_HR2",
+    "Id_Spawner_Props_WoodenBarrel03_HR3",
+    "Id_Spawner_Props_WoodenBarrel03_N1",
+    "Id_Spawner_Props_WoodenBarrel03_N2",
+    "Id_Spawner_Props_WoodenBarrel03_N3",
+    "Id_Spawner_Props_WoodenBarrel04_G1",
+    "Id_Spawner_Props_WoodenBarrel04_HR2",
+    "Id_Spawner_Props_WoodenBarrel04_HR3",
+    "Id_Spawner_Props_WoodenBarrel04_N1",
+    "Id_Spawner_Props_WoodenBarrel04_N2",
+    "Id_Spawner_Props_WoodenBarrel04_N3",
+    "Id_Spawner_Props_WoodenBarrel01_HR1",
+    "Id_Spawner_Props_WoodenBarrel01_N0",
+    "Id_Spawner_Props_WoodenBarrel02_HR1",
+    "Id_Spawner_Props_WoodenBarrel02_N0",
+    "Id_Spawner_Props_WoodenBarrel03_HR1",
+    "Id_Spawner_Props_WoodenBarrel03_N0",
+    "Id_Spawner_Props_WoodenBarrel04_HR1",
+    "Id_Spawner_Props_WoodenBarrel04_N0"
+  ],
+  "Bolt": [
+    "Id_Spawner_Lootdrop_Spawn_Bolt"
+  ],
+  "Boss Loot Room": [
+    "Id_Spawner_Props_BossRewardDoor",
+    "Id_Spawner_Props_BossReward_DoubleStoneDoor"
+  ],
+  "Bronze Ornate Chest": [
+    "Id_Spawner_Props_OrnateChestSmall_HR",
+    "Id_Spawner_Props_OrnateChestSmall_N",
+    "Id_Spawner_Props_OrnateChestSmall_G1",
+    "Id_Spawner_Props_OrnateChestSmall_HR2",
+    "Id_Spawner_Props_OrnateChestSmall_HR3",
+    "Id_Spawner_Props_OrnateChestSmall_N1",
+    "Id_Spawner_Props_OrnateChestSmall_N2",
+    "Id_Spawner_Props_OrnateChestSmall_N3",
+    "Id_Spawner_Props_OrnateChestSmall_HR1",
+    "Id_Spawner_Props_OrnateChestSmall_N0"
+  ],
+  "Cave Extract": [
+    "BP_CaveExit"
+  ],
+  "Cave Troll": [
+    "Id_Spawner_Monster_CaveTroll",
+    "Id_Spawner_Monster_CaveTroll_Elite"
+  ],
+  "Centaur Demon": [
+    "Id_Spawner_Monster_CentaurDemon",
+    "Id_Spawner_Monster_CentaurDemon_Easy",
+    "Id_Spawner_Monster_CentaurDemon_Elite",
+    "Id_Spawner_Monster_CentaurDemon_Hard",
+    "Id_Spawner_Monster_CentaurDemon_Medium"
+  ],
+  "Cloak": [
+    "Id_Spawner_LootDrop_Cloak_HR1",
+    "Id_Spawner_LootDrop_Cloak_N0"
+  ],
+  "Cobalt Ore": [
+    "Id_Spawner_Props_Ore_CobaltOre_HR",
+    "Id_Spawner_Props_Ore_CobaltOre_N"
+  ],
+  "Cockatrice": [
+    "Id_Spawner_Monster_Cockatrice"
+  ],
+  "Coffin": [
+    "Id_Spawner_Props_Coffin_01_HR",
+    "Id_Spawner_Props_Coffin_01_N",
+    "Id_Spawner_Props_Coffin_01_R_HR",
+    "Id_Spawner_Props_Coffin_01_R_N",
+    "Id_Spawner_Props_Coffin_02_HR",
+    "Id_Spawner_Props_Coffin_02_N",
+    "Id_Spawner_Props_Coffin_02_R_HR",
+    "Id_Spawner_Props_Coffin_02_R_N",
+    "Id_Spawner_Props_Coffin_03_HR",
+    "Id_Spawner_Props_Coffin_03_N",
+    "Id_Spawner_Props_Coffin_03_R_HR",
+    "Id_Spawner_Props_Coffin_03_R_N",
+    "Id_Spawner_Props_Coffin_04_HR",
+    "Id_Spawner_Props_Coffin_04_N",
+    "Id_Spawner_Props_Coffin_04_R_HR",
+    "Id_Spawner_Props_Coffin_04_R_N",
+    "Id_Spawner_Props_Coffin_05_HR",
+    "Id_Spawner_Props_Coffin_05_N",
+    "Id_Spawner_Props_Coffin_05_R_HR",
+    "Id_Spawner_Props_Coffin_05_R_N",
+    "Id_Spawner_Props_Coffin_01_G1",
+    "Id_Spawner_Props_Coffin_01_HR2",
+    "Id_Spawner_Props_Coffin_01_HR3",
+    "Id_Spawner_Props_Coffin_01_N1",
+    "Id_Spawner_Props_Coffin_01_N2",
+    "Id_Spawner_Props_Coffin_01_N3",
+    "Id_Spawner_Props_Coffin_01_R_G1",
+    "Id_Spawner_Props_Coffin_01_R_HR2",
+    "Id_Spawner_Props_Coffin_01_R_HR3",
+    "Id_Spawner_Props_Coffin_01_R_N1",
+    "Id_Spawner_Props_Coffin_01_R_N2",
+    "Id_Spawner_Props_Coffin_01_R_N3",
+    "Id_Spawner_Props_Coffin_02_G1",
+    "Id_Spawner_Props_Coffin_02_HR2",
+    "Id_Spawner_Props_Coffin_02_HR3",
+    "Id_Spawner_Props_Coffin_02_N1",
+    "Id_Spawner_Props_Coffin_02_N2",
+    "Id_Spawner_Props_Coffin_02_N3",
+    "Id_Spawner_Props_Coffin_02_R_G1",
+    "Id_Spawner_Props_Coffin_02_R_HR2",
+    "Id_Spawner_Props_Coffin_02_R_HR3",
+    "Id_Spawner_Props_Coffin_02_R_N1",
+    "Id_Spawner_Props_Coffin_02_R_N2",
+    "Id_Spawner_Props_Coffin_02_R_N3",
+    "Id_Spawner_Props_Coffin_03_G1",
+    "Id_Spawner_Props_Coffin_03_HR2",
+    "Id_Spawner_Props_Coffin_03_HR3",
+    "Id_Spawner_Props_Coffin_03_N1",
+    "Id_Spawner_Props_Coffin_03_N2",
+    "Id_Spawner_Props_Coffin_03_N3",
+    "Id_Spawner_Props_Coffin_03_R_G1",
+    "Id_Spawner_Props_Coffin_03_R_HR2",
+    "Id_Spawner_Props_Coffin_03_R_HR3",
+    "Id_Spawner_Props_Coffin_03_R_N1",
+    "Id_Spawner_Props_Coffin_03_R_N2",
+    "Id_Spawner_Props_Coffin_03_R_N3",
+    "Id_Spawner_Props_Coffin_04_G1",
+    "Id_Spawner_Props_Coffin_04_HR2",
+    "Id_Spawner_Props_Coffin_04_HR3",
+    "Id_Spawner_Props_Coffin_04_N1",
+    "Id_Spawner_Props_Coffin_04_N2",
+    "Id_Spawner_Props_Coffin_04_N3",
+    "Id_Spawner_Props_Coffin_04_R_G1",
+    "Id_Spawner_Props_Coffin_04_R_HR2",
+    "Id_Spawner_Props_Coffin_04_R_HR3",
+    "Id_Spawner_Props_Coffin_04_R_N1",
+    "Id_Spawner_Props_Coffin_04_R_N2",
+    "Id_Spawner_Props_Coffin_04_R_N3",
+    "Id_Spawner_Props_Coffin_05_G1",
+    "Id_Spawner_Props_Coffin_05_HR2",
+    "Id_Spawner_Props_Coffin_05_HR3",
+    "Id_Spawner_Props_Coffin_05_N1",
+    "Id_Spawner_Props_Coffin_05_N2",
+    "Id_Spawner_Props_Coffin_05_N3",
+    "Id_Spawner_Props_Coffin_05_R_G1",
+    "Id_Spawner_Props_Coffin_05_R_HR2",
+    "Id_Spawner_Props_Coffin_05_R_HR3",
+    "Id_Spawner_Props_Coffin_05_R_N1",
+    "Id_Spawner_Props_Coffin_05_R_N2",
+    "Id_Spawner_Props_Coffin_05_R_N3",
+    "Id_Spawner_Props_Coffin_01_HR1",
+    "Id_Spawner_Props_Coffin_01_N0",
+    "Id_Spawner_Props_Coffin_01_R_HR1",
+    "Id_Spawner_Props_Coffin_01_R_N0",
+    "Id_Spawner_Props_Coffin_02_HR1",
+    "Id_Spawner_Props_Coffin_02_N0",
+    "Id_Spawner_Props_Coffin_02_R_HR1",
+    "Id_Spawner_Props_Coffin_02_R_N0",
+    "Id_Spawner_Props_Coffin_03_HR1",
+    "Id_Spawner_Props_Coffin_03_N0",
+    "Id_Spawner_Props_Coffin_03_R_HR1",
+    "Id_Spawner_Props_Coffin_03_R_N0",
+    "Id_Spawner_Props_Coffin_04_HR1",
+    "Id_Spawner_Props_Coffin_04_N0",
+    "Id_Spawner_Props_Coffin_04_R_HR1",
+    "Id_Spawner_Props_Coffin_04_R_N0",
+    "Id_Spawner_Props_Coffin_05_HR1",
+    "Id_Spawner_Props_Coffin_05_N0",
+    "Id_Spawner_Props_Coffin_05_R_HR1",
+    "Id_Spawner_Props_Coffin_05_R_N0"
+  ],
+  "Coin": [
+    "Id_Spawner_LootDrop_Coin_HR",
+    "Id_Spawner_LootDrop_Coin_N",
+    "Id_Spawner_LootDrop_Coin_G1",
+    "Id_Spawner_LootDrop_Coin_HR2",
+    "Id_Spawner_LootDrop_Coin_HR3",
+    "Id_Spawner_LootDrop_Coin_N1",
+    "Id_Spawner_LootDrop_Coin_N2",
+    "Id_Spawner_LootDrop_Coin_N3",
+    "Id_Spawner_LootDrop_Coin_HR1",
+    "Id_Spawner_LootDrop_Coin_N0"
+  ],
+  "Crate": [
+    "Id_Spawner_Props_WoodenCrateMedium01_HR",
+    "Id_Spawner_Props_WoodenCrateMedium01_N",
+    "Id_Spawner_Props_WoodenCrateSmall_HR",
+    "Id_Spawner_Props_WoodenCrateSmall_N",
+    "Id_Spawner_Props_WoodenCrateMedium01_G1",
+    "Id_Spawner_Props_WoodenCrateMedium01_HR2",
+    "Id_Spawner_Props_WoodenCrateMedium01_HR3",
+    "Id_Spawner_Props_WoodenCrateMedium01_N1",
+    "Id_Spawner_Props_WoodenCrateMedium01_N2",
+    "Id_Spawner_Props_WoodenCrateMedium01_N3",
+    "Id_Spawner_Props_WoodenCrateSmall_G1",
+    "Id_Spawner_Props_WoodenCrateSmall_HR2",
+    "Id_Spawner_Props_WoodenCrateSmall_HR3",
+    "Id_Spawner_Props_WoodenCrateSmall_N1",
+    "Id_Spawner_Props_WoodenCrateSmall_N2",
+    "Id_Spawner_Props_WoodenCrateSmall_N3",
+    "Id_Spawner_Props_WoodenCrateMedium01_HR1",
+    "Id_Spawner_Props_WoodenCrateMedium01_N0",
+    "Id_Spawner_Props_WoodenCrateSmall_HR1",
+    "Id_Spawner_Props_WoodenCrateSmall_N0"
+  ],
+  "Death Beetle": [
+    "Id_Spawner_Monster_DeathBeetle",
+    "Id_Spawner_Monster_DeathBeetle_Easy",
+    "Id_Spawner_Monster_DeathBeetle_Elite",
+    "Id_Spawner_Monster_DeathBeetle_Hard",
+    "Id_Spawner_Monster_DeathBeetle_Medium",
+    "Id_Spawner_Monster_DeathBeetle_Nightmare"
+  ],
+  "Death Skull": [
+    "Id_Spawner_Monster_DeathSkull",
+    "Id_Spawner_Monster_DeathSkull_Easy",
+    "Id_Spawner_Monster_DeathSkull_Elite",
+    "Id_Spawner_Monster_DeathSkull_Elite_Summoned",
+    "Id_Spawner_Monster_DeathSkull_Hard",
+    "Id_Spawner_Monster_DeathSkull_Medium",
+    "Id_Spawner_Monster_DeathSkull_Nightmare",
+    "Id_Spawner_Monster_DeathSkull_Summoned"
+  ],
+  "Demon Bat": [
+    "Id_Spawner_Monster_DemonBat",
+    "Id_Spawner_Monster_DemonBat_Easy",
+    "Id_Spawner_Monster_DemonBat_Elite",
+    "Id_Spawner_Monster_DemonBat_Hard",
+    "Id_Spawner_Monster_DemonBat_Medium",
+    "Id_Spawner_Monster_DemonBat_Nightmare"
+  ],
+  "Demon Berserker": [
+    "Id_Spawner_Monster_DemonBerserker",
+    "Id_Spawner_Monster_DemonBerserker_Elite",
+    "Id_Spawner_Monster_DemonBerserker_Hard",
+    "Id_Spawner_Monster_DemonBerserker_Nightmare"
+  ],
+  "Demon Dog": [
+    "Id_Spawner_Monster_DemonDog",
+    "Id_Spawner_Monster_DemonDog_Easy",
+    "Id_Spawner_Monster_DemonDog_Elite",
+    "Id_Spawner_Monster_DemonDog_Hard",
+    "Id_Spawner_Monster_DemonDog_Medium",
+    "Id_Spawner_Monster_DemonDog_Nightmare"
+  ],
+  "Dire Wolf": [
+    "Id_Spawner_Monster_DireWolf"
+  ],
+  "Event Coin": [
+    "Id_Spawner_LootDrop_ValentineCandies_N",
+    "Id_Spawner_LootDrop_CandyCane_HR",
+    "Id_Spawner_LootDrop_CandyCane_N",
+    "Id_Spawner_LootDrop_ValentineCandies_HR"
+  ],
+  "Flame Spout": [
+    "Id_Spawner_Props_FlameSpout",
+    "BP_FlameSpout"
+  ],
+  "Flat Chest": [
+    "Id_Spawner_Props_FlatChestLarge_HR",
+    "Id_Spawner_Props_FlatChestLarge_N",
+    "Id_Spawner_Props_FlatChestLarge_G1",
+    "Id_Spawner_Props_FlatChestLarge_HR2",
+    "Id_Spawner_Props_FlatChestLarge_HR3",
+    "Id_Spawner_Props_FlatChestLarge_N1",
+    "Id_Spawner_Props_FlatChestLarge_N2",
+    "Id_Spawner_Props_FlatChestLarge_N3",
+    "Id_Spawner_Props_FlatChestLarge_HR1",
+    "Id_Spawner_Props_FlatChestLarge_N0"
+  ],
+  "Gems": [
+    "Id_Spawner_LootDrop_Gems_HR",
+    "Id_Spawner_LootDrop_Gems_N",
+    "Id_Spawner_LootDrop_Gems_G1",
+    "Id_Spawner_LootDrop_Gems_HR2",
+    "Id_Spawner_LootDrop_Gems_HR3",
+    "Id_Spawner_LootDrop_Gems_N1",
+    "Id_Spawner_LootDrop_Gems_N2",
+    "Id_Spawner_LootDrop_Gems_N3",
+    "Id_Spawner_LootDrop_Gems_HR1",
+    "Id_Spawner_LootDrop_Gems_N0"
+  ],
+  "Generic Drop": [
+    "Id_Spawner_LootDrop_Armor_Armory",
+    "Id_Spawner_LootDrop_Bookshelf_HR",
+    "Id_Spawner_LootDrop_Bookshelf_N",
+    "Id_Spawner_LootDrop_Ground_HR",
+    "Id_Spawner_LootDrop_Ground_N",
+    "Id_Spawner_LootDrop_Tresure_Poor",
+    "Id_Spawner_LootDrop_Trinkets_HR",
+    "Id_Spawner_LootDrop_Trinkets_N",
+    "Id_Spawner_LootDrop_Chalice_N",
+    "Id_Spawner_LootDrop_GoldWaterpot_N",
+    "Id_Spawner_LootDrop_LargeScroll_N",
+    "Id_Spawner_LootDrop_CeremonialDagger_N",
+    "Id_Spawner_LootDrop_Ground_G1",
+    "Id_Spawner_LootDrop_Ground_HR2",
+    "Id_Spawner_LootDrop_Ground_HR3",
+    "Id_Spawner_LootDrop_Ground_N1",
+    "Id_Spawner_LootDrop_Ground_N2",
+    "Id_Spawner_LootDrop_Ground_N3",
+    "Id_Spawner_LootDrop_Ground_HR1",
+    "Id_Spawner_LootDrop_Ground_N0"
+  ],
+  "Ghost King": [
+    "Id_Spawner_Monster_GhostKing",
+    "Id_Spawner_Monster_GhostKing_Elite"
+  ],
+  "Giant Bat": [
+    "Id_Spawner_Monster_GiantBat",
+    "Id_Spawner_Monster_GiantBat_EASY",
+    "Id_Spawner_Monster_GiantBat_Medium"
+  ],
+  "Giant Centipede": [
+    "Id_Spawner_Monster_GiantCentipede",
+    "Id_Spawner_Monster_GiantCentipede_EASY",
+    "Id_Spawner_Monster_GiantCentipede_Elite",
+    "Id_Spawner_Monster_GiantCentipede_Medium"
+  ],
+  "Giant Dragonfly": [
+    "Id_Spawner_Monster_GiantDragonfly",
+    "Id_Spawner_Monster_GiantDragonfly_Easy",
+    "Id_Spawner_Monster_GiantDragonfly_Elite",
+    "Id_Spawner_Monster_GiantDragonfly_Hard",
+    "Id_Spawner_Monster_GiantDragonfly_Medium",
+    "Id_Spawner_Monster_GiantDragonfly_Nightmare"
+  ],
+  "Giant Spider": [
+    "Id_Spawner_Monster_GiantSpider"
+  ],
+  "Giant Worm": [
+    "Id_Spawner_Monster_GiantWorm",
+    "Id_Spawner_Monster_GiantWorm_Elite"
+  ],
+  "Goblin Archer": [
+    "Id_Spawner_Monster_GoblinArcher",
+    "Id_Spawner_Monster_GoblinArcher_EASY",
+    "Id_Spawner_Monster_GoblinArcher_Medium",
+    "Id_Spawner_Monster_GoblinArcher_Elite",
+    "Id_Spawner_Monster_GoblinArcher_Nightmare"
+  ],
+  "Goblin Axeman": [
+    "Id_Spawner_Monster_GoblinAxeman",
+    "Id_Spawner_Monster_GoblinAxeman_EASY",
+    "Id_Spawner_Monster_GoblinAxeman_Medium",
+    "Id_Spawner_Monster_GoblinAxeman_Elite",
+    "Id_Spawner_Monster_GoblinAxeman_Nightmare"
+  ],
+  "Goblin Bolaslinger": [
+    "Id_Spawner_Monster_GoblinBolaslinger",
+    "Id_Spawner_Monster_GoblinBolaslinger_Easy",
+    "Id_Spawner_Monster_GoblinBolaslinger_medium",
+    "Id_Spawner_Monster_GoblinBolaslinger_Elite",
+    "Id_Spawner_Monster_GoblinBolaslinger_Nightmare"
+  ],
+  "Goblin Mage": [
+    "Id_Spawner_Monster_GoblinMage",
+    "Id_Spawner_Monster_GoblinMage_EASY",
+    "Id_Spawner_Monster_GoblinMage_Medium",
+    "Id_Spawner_Monster_GoblinMage_Elite",
+    "Id_Spawner_Monster_GoblinMage_Nightmare"
+  ],
+  "Goblin Melee": [
+    "Id_Spawner_Monster_GoblinMelee_Random_Easy",
+    "Id_Spawner_Monster_GoblinMelee_Random_Hard",
+    "Id_Spawner_Monster_GoblinMelee_Random_Medium"
+  ],
+  "Goblin Ranged": [
+    "Id_Spawner_Monster_GoblinRanged_Random_Easy",
+    "Id_Spawner_Monster_GoblinRanged_Random_Hard",
+    "Id_Spawner_Monster_GoblinRanged_Random_Medium"
+  ],
+  "Goblin Warrior": [
+    "Id_Spawner_Monster_GoblinWarrior",
+    "Id_Spawner_Monster_GoblinWarrior_EASY",
+    "Id_Spawner_Monster_GoblinWarrior_Medium",
+    "Id_Spawner_Monster_GoblinWarrior_Elite",
+    "Id_Spawner_Monster_GoblinWarrior_Nightmare"
+  ],
+  "Gold Ore": [
+    "Id_Spawner_Props_Ore_GoldOre_HR",
+    "Id_Spawner_Props_Ore_GoldOre_N"
+  ],
+  "Golden Chest": [
+    "Id_Spawner_Props_ChestSpecialWeapon_HR",
+    "Id_Spawner_Props_ChestSpecialWeapon_N",
+    "Id_Spawner_Props_ChestSpecial_HR",
+    "Id_Spawner_Props_ChestSpecial_N",
+    "Id_Spawner_Props_ChestSpecialRandom_G1",
+    "Id_Spawner_Props_ChestSpecialRandom_HR2",
+    "Id_Spawner_Props_ChestSpecialRandom_HR3",
+    "Id_Spawner_Props_ChestSpecialRandom_N1",
+    "Id_Spawner_Props_ChestSpecialRandom_N2",
+    "Id_Spawner_Props_ChestSpecialRandom_N3",
+    "Id_Spawner_Props_ChestSpecialWeapon_G1",
+    "Id_Spawner_Props_ChestSpecialWeapon_HR2",
+    "Id_Spawner_Props_ChestSpecialWeapon_HR3",
+    "Id_Spawner_Props_ChestSpecialWeapon_N1",
+    "Id_Spawner_Props_ChestSpecialWeapon_N2",
+    "Id_Spawner_Props_ChestSpecialWeapon_N3",
+    "Id_Spawner_Props_ChestSpecial_G1",
+    "Id_Spawner_Props_ChestSpecial_HR2",
+    "Id_Spawner_Props_ChestSpecial_HR3",
+    "Id_Spawner_Props_ChestSpecial_N1",
+    "Id_Spawner_Props_ChestSpecial_N2",
+    "Id_Spawner_Props_ChestSpecial_N3",
+    "Id_Spawner_Props_ChestSpecialRandom_HR1",
+    "Id_Spawner_Props_ChestSpecialRandom_N0",
+    "Id_Spawner_Props_ChestSpecialWeapon_HR1",
+    "Id_Spawner_Props_ChestSpecialWeapon_N0",
+    "Id_Spawner_Props_ChestSpecial_HR1",
+    "Id_Spawner_Props_ChestSpecial_N0"
+  ],
+  "Golden Room": [
+    "BP_GoldenDoor",
+    "Id_Spawner_Props_GoldenDoor"
+  ],
+  "Golem": [
+    "Id_Spawner_Monster_RuinsGolem"
+  ],
+  "Heavy Ornate Chest": [
+    "Id_Spawner_Props_OrnateChestMedium_HR",
+    "Id_Spawner_Props_OrnateChestMedium_N",
+    "Id_Spawner_Props_OrnateChestMedium_G1",
+    "Id_Spawner_Props_OrnateChestMedium_HR2",
+    "Id_Spawner_Props_OrnateChestMedium_HR3",
+    "Id_Spawner_Props_OrnateChestMedium_N1",
+    "Id_Spawner_Props_OrnateChestMedium_N2",
+    "Id_Spawner_Props_OrnateChestMedium_N3",
+    "Id_Spawner_Props_OrnateChestMedium_HR1",
+    "Id_Spawner_Props_OrnateChestMedium_N0"
+  ],
+  "Hoard": [
+    "Id_Spawner_Props_Hoard_HR",
+    "Id_Spawner_Props_Hoard_N",
+    "Id_Spawner_Props_Hoard_HR2",
+    "Id_Spawner_Props_Hoard_HR3",
+    "Id_Spawner_Props_Hoard_N3",
+    "Id_Spawner_Props_Hoard_HR1",
+    "Id_Spawner_Props_Hoard_N0",
+    "Id_Spawner_Props_Hoard_N1",
+    "Id_Spawner_Props_Hoard_N2"
+  ],
+  "Large Oak Chest": [
+    "Id_Spawner_Props_SimpleChestLarge_HR",
+    "Id_Spawner_Props_SimpleChestLarge_N",
+    "Id_Spawner_Props_SimpleChestLarge_G1",
+    "Id_Spawner_Props_SimpleChestLarge_HR2",
+    "Id_Spawner_Props_SimpleChestLarge_HR3",
+    "Id_Spawner_Props_SimpleChestLarge_N1",
+    "Id_Spawner_Props_SimpleChestLarge_N2",
+    "Id_Spawner_Props_SimpleChestLarge_N3",
+    "Id_Spawner_Props_SimpleChestLarge_HR1",
+    "Id_Spawner_Props_SimpleChestLarge_N0"
+  ],
+  "Large Reinforced Chest": [
+    "Id_Spawner_Props_WoodChestLarge_HR",
+    "Id_Spawner_Props_WoodChestLarge_N",
+    "Id_Spawner_Props_WoodChestLarge_G1",
+    "Id_Spawner_Props_WoodChestLarge_HR2",
+    "Id_Spawner_Props_WoodChestLarge_HR3",
+    "Id_Spawner_Props_WoodChestLarge_N1",
+    "Id_Spawner_Props_WoodChestLarge_N2",
+    "Id_Spawner_Props_WoodChestLarge_N3",
+    "Id_Spawner_Props_WoodChestLarge_HR1",
+    "Id_Spawner_Props_WoodChestLarge_N0"
+  ],
+  "Lava Monster": [
+    "Id_Spawner_Monster_LavaMonster",
+    "Id_Spawner_Monster_LavaMonster_Easy",
+    "Id_Spawner_Monster_LavaMonster_Elite",
+    "Id_Spawner_Monster_LavaMonster_Hard",
+    "Id_Spawner_Monster_LavaMonster_Medium",
+    "Id_Spawner_Monster_LavaMonster_Nightmare"
+  ],
+  "Lever": [
+    "Id_Spawner_Props_FloorLever",
+    "Id_Spawner_Props_Lever01",
+    "Id_Spawner_Props_WallLever",
+    "Id_Spawner_Props_CupLever_01",
+    "Id_Spawner_Props_CupLever_01_OnlyActivate",
+    "Id_Spawner_Props_CupLever_02",
+    "Id_Spawner_Props_CupLever_03",
+    "Id_Spawner_Props_CupLever_04",
+    "Id_Spawner_Props_FloorLever_OnlyActivate",
+    "Id_Spawner_Props_StatueLever",
+    "Id_Spawner_Props_StatueLever_OnlyActivate",
+    "Id_Spawner_Props_WallLever_OnlyActivate",
+    "Id_Spawner_Props_Elevator_FloorLever",
+    "BP_StatueLever"
+  ],
+  "Lich": [
+    "Id_Spawner_Monster_Lich",
+    "Id_Spawner_Monster_Lich_Elite"
+  ],
+  "Lion's Head Chest": [
+    "Id_Spawner_Props_OrnateChestLarge_HR",
+    "Id_Spawner_Props_OrnateChestLarge_N",
+    "Id_Spawner_Props_OrnateChestLarge_G1",
+    "Id_Spawner_Props_OrnateChestLarge_HR2",
+    "Id_Spawner_Props_OrnateChestLarge_HR3",
+    "Id_Spawner_Props_OrnateChestLarge_N1",
+    "Id_Spawner_Props_OrnateChestLarge_N2",
+    "Id_Spawner_Props_OrnateChestLarge_N3",
+    "Id_Spawner_Props_OrnateChestLarge_HR1",
+    "Id_Spawner_Props_OrnateChestLarge_N0",
+    "Id_Spawner_Props_OrnateChestLargeRandom_HR1",
+    "Id_Spawner_Props_OrnateChestLargeRandom_HR2",
+    "Id_Spawner_Props_OrnateChestLargeRandom_HR3",
+    "Id_Spawner_Props_OrnateChestLargeRandom_N0",
+    "Id_Spawner_Props_OrnateChestLargeRandom_N1",
+    "Id_Spawner_Props_OrnateChestLargeRandom_N2",
+    "Id_Spawner_Props_OrnateChestLargeRandom_N3"
+  ],
+  "Lockpick": [
+    "Id_Spawner_LootDrop_LockPick",
+    "Id_Spawner_LootDrop_LockPick_HR"
+  ],
+  "Marvelous Chest": [
+    "Id_Spawner_Props_MarvelousChest_HR1",
+    "Id_Spawner_Props_MarvelousChest_HR2",
+    "Id_Spawner_Props_MarvelousChest_HR3",
+    "Id_Spawner_Props_MarvelousChest_N0",
+    "Id_Spawner_Props_MarvelousChest_N1",
+    "Id_Spawner_Props_MarvelousChest_N2",
+    "Id_Spawner_Props_MarvelousChest_N3"
+  ],
+  "Mimic": [
+    "Id_Spawner_Monster_Mimic",
+    "Id_Spawner_Monster_Mimic_Large_Flat",
+    "Id_Spawner_Monster_Mimic_Large_Flat_Elite",
+    "Id_Spawner_Monster_Mimic_Large_Flat_Nightmare",
+    "Id_Spawner_Monster_Mimic_Large_MidLevel",
+    "Id_Spawner_Monster_Mimic_Large_MidLevel_Elite",
+    "Id_Spawner_Monster_Mimic_Large_MidLevel_Nightmare",
+    "Id_Spawner_Monster_Mimic_Large_Ornate",
+    "Id_Spawner_Monster_Mimic_Large_Ornate_Elite",
+    "Id_Spawner_Monster_Mimic_Large_Ornate_Nightmare",
+    "Id_Spawner_Monster_Mimic_Large_Simple",
+    "Id_Spawner_Monster_Mimic_Large_Simple_Elite",
+    "Id_Spawner_Monster_Mimic_Large_Simple_Nightmare",
+    "Id_Spawner_Monster_Mimic_Medium_MidLevel",
+    "Id_Spawner_Monster_Mimic_Medium_MidLevel_Elite",
+    "Id_Spawner_Monster_Mimic_Medium_MidLevel_Nightmare",
+    "Id_Spawner_Monster_Mimic_Medium_Ornate",
+    "Id_Spawner_Monster_Mimic_Medium_Ornate_Elite",
+    "Id_Spawner_Monster_Mimic_Medium_Ornate_Nightmare",
+    "Id_Spawner_Monster_Mimic_Medium_Simple",
+    "Id_Spawner_Monster_Mimic_Medium_Simple_Elite",
+    "Id_Spawner_Monster_Mimic_Medium_Simple_Nightmare",
+    "Id_Spawner_Monster_Mimic_Small_MidLevel",
+    "Id_Spawner_Monster_Mimic_Small_MidLevel_Elite",
+    "Id_Spawner_Monster_Mimic_Small_MidLevel_Nightmare",
+    "Id_Spawner_Monster_Mimic_Small_Ornate",
+    "Id_Spawner_Monster_Mimic_Small_Ornate_Elite",
+    "Id_Spawner_Monster_Mimic_Small_Ornate_Nightmare",
+    "Id_Spawner_Monster_Mimic_Small_Simple",
+    "Id_Spawner_Monster_Mimic_Small_Simple_Elite",
+    "Id_Spawner_Monster_Mimic_Small_Simple_Nightmare"
+  ],
+  "Mummy": [
+    "Id_Spawner_Monster_Mummy",
+    "Id_Spawner_Monster_Mummy_Easy",
+    "Id_Spawner_Monster_Mummy_Elite",
+    "Id_Spawner_Monster_Mummy_Hard",
+    "Id_Spawner_Monster_Mummy_Medium",
+    "Id_Spawner_Monster_Mummy_Nightmare"
+  ],
+  "Oak Chest": [
+    "Id_Spawner_Props_SimpleChestMedium_HR",
+    "Id_Spawner_Props_SimpleChestMedium_N",
+    "Id_Spawner_Props_SimpleChestMedium_G1",
+    "Id_Spawner_Props_SimpleChestMedium_HR2",
+    "Id_Spawner_Props_SimpleChestMedium_HR3",
+    "Id_Spawner_Props_SimpleChestMedium_N1",
+    "Id_Spawner_Props_SimpleChestMedium_N2",
+    "Id_Spawner_Props_SimpleChestMedium_N3",
+    "Id_Spawner_Props_SimpleChestMedium_HR1",
+    "Id_Spawner_Props_SimpleChestMedium_N0"
+  ],
+  "Player Spawn": [
+    "SpawnPoint"
+  ],
+  "Pot": [
+    "Id_Spawner_Props_Pot01_HR",
+    "Id_Spawner_Props_Pot01_N",
+    "Id_Spawner_Props_Pot02_HR",
+    "Id_Spawner_Props_Pot02_N",
+    "Id_Spawner_Props_Pot03_HR",
+    "Id_Spawner_Props_Pot03_N",
+    "Id_Spawner_Props_Pot04_HR",
+    "Id_Spawner_Props_Pot04_N",
+    "Id_Spawner_Props_Pot01_G1",
+    "Id_Spawner_Props_Pot01_HR2",
+    "Id_Spawner_Props_Pot01_HR3",
+    "Id_Spawner_Props_Pot01_N1",
+    "Id_Spawner_Props_Pot01_N2",
+    "Id_Spawner_Props_Pot01_N3",
+    "Id_Spawner_Props_Pot02_G1",
+    "Id_Spawner_Props_Pot02_HR2",
+    "Id_Spawner_Props_Pot02_HR3",
+    "Id_Spawner_Props_Pot02_N1",
+    "Id_Spawner_Props_Pot02_N2",
+    "Id_Spawner_Props_Pot02_N3",
+    "Id_Spawner_Props_Pot03_G1",
+    "Id_Spawner_Props_Pot03_HR2",
+    "Id_Spawner_Props_Pot03_HR3",
+    "Id_Spawner_Props_Pot03_N1",
+    "Id_Spawner_Props_Pot03_N2",
+    "Id_Spawner_Props_Pot03_N3",
+    "Id_Spawner_Props_Pot04_G1",
+    "Id_Spawner_Props_Pot04_HR2",
+    "Id_Spawner_Props_Pot04_HR3",
+    "Id_Spawner_Props_Pot04_N1",
+    "Id_Spawner_Props_Pot04_N2",
+    "Id_Spawner_Props_Pot04_N3",
+    "Id_Spawner_Props_Pot01_HR1",
+    "Id_Spawner_Props_Pot01_N0",
+    "Id_Spawner_Props_Pot02_HR1",
+    "Id_Spawner_Props_Pot02_N0",
+    "Id_Spawner_Props_Pot03_HR1",
+    "Id_Spawner_Props_Pot03_N0",
+    "Id_Spawner_Props_Pot04_HR1",
+    "Id_Spawner_Props_Pot04_N0"
+  ],
+  "Potion": [
+    "Id_Spawner_LootDrop_Potion_HR",
+    "Id_Spawner_LootDrop_Potion_N",
+    "Id_Spawner_LootDrop_Potion_G1",
+    "Id_Spawner_LootDrop_Potion_HR2",
+    "Id_Spawner_LootDrop_Potion_HR3",
+    "Id_Spawner_LootDrop_Potion_N1",
+    "Id_Spawner_LootDrop_Potion_N2",
+    "Id_Spawner_LootDrop_Potion_N3",
+    "Id_Spawner_LootDrop_Potion_HR1",
+    "Id_Spawner_LootDrop_Potion_N0"
+  ],
+  "Pressure Plate": [
+    "Id_Spawner_Props_PressurePlate"
+  ],
+  "Random Large Chest": [
+    "Id_Spawner_Props_B2ChestLarge_HR",
+    "Id_Spawner_Props_B2ChestLarge_N",
+    "Id_Spawner_Props_B3ChestLarge_HR",
+    "Id_Spawner_Props_B3ChestLarge_N",
+    "Id_Spawner_Props_ChestLarge_G1",
+    "Id_Spawner_Props_ChestLarge_HR2",
+    "Id_Spawner_Props_ChestLarge_HR3",
+    "Id_Spawner_Props_ChestLarge_N1",
+    "Id_Spawner_Props_ChestLarge_N2",
+    "Id_Spawner_Props_ChestLarge_N3",
+    "Id_Spawner_Props_ChestLarge_HR1",
+    "Id_Spawner_Props_ChestLarge_N0"
+  ],
+  "Random Medium Chest": [
+    "Id_Spawner_Props_B2ChestMedium_HR",
+    "Id_Spawner_Props_B2ChestMedium_N",
+    "Id_Spawner_Props_B3ChestMedium_HR",
+    "Id_Spawner_Props_B3ChestMedium_N",
+    "Id_Spawner_Props_ChestMedium_G1",
+    "Id_Spawner_Props_ChestMedium_HR2",
+    "Id_Spawner_Props_ChestMedium_HR3",
+    "Id_Spawner_Props_ChestMedium_N1",
+    "Id_Spawner_Props_ChestMedium_N2",
+    "Id_Spawner_Props_ChestMedium_N3",
+    "Id_Spawner_Props_ChestMedium_HR1",
+    "Id_Spawner_Props_ChestMedium_N0"
+  ],
+  "Random Ore G+C": [
+    "Id_Spawner_Props_Ore_GoldOreRandom_HR",
+    "Id_Spawner_Props_Ore_GoldOreRandom_N"
+  ],
+  "Random Ore R+C": [
+    "Id_Spawner_Props_Ore_RubysilverOreRandom_HR",
+    "Id_Spawner_Props_Ore_RubysilverOreRandom_N"
+  ],
+  "Random Small Chest": [
+    "Id_Spawner_Props_B2ChestSmall_HR",
+    "Id_Spawner_Props_B2ChestSmall_N",
+    "Id_Spawner_Props_B3ChestSmall_HR",
+    "Id_Spawner_Props_B3ChestSmall_N",
+    "Id_Spawner_Props_ChestSmall_G1",
+    "Id_Spawner_Props_ChestSmall_HR2",
+    "Id_Spawner_Props_ChestSmall_HR3",
+    "Id_Spawner_Props_ChestSmall_N1",
+    "Id_Spawner_Props_ChestSmall_N2",
+    "Id_Spawner_Props_ChestSmall_N3",
+    "Id_Spawner_Props_ChestSmall_HR1",
+    "Id_Spawner_Props_ChestSmall_N0"
+  ],
+  "Random Special Chest": [
+    "Id_Spawner_Props_B2ChestSpecial_HR",
+    "Id_Spawner_Props_B2ChestSpecial_N",
+    "Id_Spawner_Props_B3ChestSpecial_HR",
+    "Id_Spawner_Props_B3ChestSpecial_N",
+    "Id_Spawner_Props_ChestSpecialRandom_HR",
+    "Id_Spawner_Props_ChestSpecialRandom_N"
+  ],
+  "Reinforced Chest": [
+    "Id_Spawner_Props_WoodChestMedium_HR",
+    "Id_Spawner_Props_WoodChestMedium_N",
+    "Id_Spawner_Props_WoodChestMedium_G1",
+    "Id_Spawner_Props_WoodChestMedium_HR2",
+    "Id_Spawner_Props_WoodChestMedium_HR3",
+    "Id_Spawner_Props_WoodChestMedium_N1",
+    "Id_Spawner_Props_WoodChestMedium_N2",
+    "Id_Spawner_Props_WoodChestMedium_N3",
+    "Id_Spawner_Props_WoodChestMedium_HR1",
+    "Id_Spawner_Props_WoodChestMedium_N0"
+  ],
+  "Royal Coffin": [
+    "Id_Spawner_Props_Coffin_06_HR",
+    "Id_Spawner_Props_Coffin_06_HR1",
+    "Id_Spawner_Props_Coffin_06_HR2",
+    "Id_Spawner_Props_Coffin_06_HR3",
+    "Id_Spawner_Props_Coffin_06_N",
+    "Id_Spawner_Props_Coffin_06_N0",
+    "Id_Spawner_Props_Coffin_06_N1",
+    "Id_Spawner_Props_Coffin_06_N2",
+    "Id_Spawner_Props_Coffin_06_N3",
+    "Id_Spawner_Props_Coffin_06_R_HR",
+    "Id_Spawner_Props_Coffin_06_R_HR1",
+    "Id_Spawner_Props_Coffin_06_R_HR2",
+    "Id_Spawner_Props_Coffin_06_R_HR3",
+    "Id_Spawner_Props_Coffin_06_R_N",
+    "Id_Spawner_Props_Coffin_06_R_N0",
+    "Id_Spawner_Props_Coffin_06_R_N1",
+    "Id_Spawner_Props_Coffin_06_R_N2",
+    "Id_Spawner_Props_Coffin_06_R_N3"
+  ],
+  "Rubysilver Ore": [
+    "Id_Spawner_Props_Ore_RubysilverOre_HR",
+    "Id_Spawner_Props_Ore_RubysilverOre_N"
+  ],
+  "Rusty Room": [
+    "Id_Spawner_Props_RustyIronDoor"
+  ],
+  "Secret Wall": [
+    "Id_Spawner_Props_CryptSecretWallDoor",
+    "Id_Spawner_Props_InfernoSecretWallDoor",
+    "Id_Spawner_Props_SecretWall"
+  ],
+  "Shrine of Health": [
+    "Id_Spawner_Props_Statue01"
+  ],
+  "Shrine of Power": [
+    "Id_Spawner_Props_Statue03"
+  ],
+  "Shrine of Protection": [
+    "Id_Spawner_Props_Statue02"
+  ],
+  "Shrine of Speed": [
+    "Id_Spawner_Props_Statue04"
+  ],
+  "Skeleton Archer": [
+    "Id_Spawner_Monster_SkeletonArcher",
+    "Id_Spawner_Monster_SkeletonArcher_Easy",
+    "Id_Spawner_Monster_SkeletonArcher_Elite",
+    "Id_Spawner_Monster_SkeletonArcher_Hard",
+    "Id_Spawner_Monster_SkeletonArcher_Medium",
+    "Id_Spawner_Monster_SkeletonArcher_Nightmare",
+    "Id_Spawner_Monster_SkeletonArcher_Summoned"
+  ],
+  "Skeleton Axeman": [
+    "Id_Spawner_Monster_SkeletonAxeman",
+    "Id_Spawner_Monster_SkeletonAxeman_Easy",
+    "Id_Spawner_Monster_SkeletonAxeman_Elite",
+    "Id_Spawner_Monster_SkeletonAxeman_Hard",
+    "Id_Spawner_Monster_SkeletonAxeman_Medium",
+    "Id_Spawner_Monster_SkeletonAxeman_Nightmare"
+  ],
+  "Skeleton Barrel": [
+    "Id_Spawner_Props_SkeletonWoodenBarrelRandom_G1",
+    "Id_Spawner_Props_SkeletonWoodenBarrelRandom_HR2",
+    "Id_Spawner_Props_SkeletonWoodenBarrelRandom_HR3",
+    "Id_Spawner_Props_SkeletonWoodenBarrelRandom_N1",
+    "Id_Spawner_Props_SkeletonWoodenBarrelRandom_N2",
+    "Id_Spawner_Props_SkeletonWoodenBarrelRandom_N3",
+    "Id_Spawner_Props_SkeletonWoodenBarrel_G1",
+    "Id_Spawner_Props_SkeletonWoodenBarrel_HR2",
+    "Id_Spawner_Props_SkeletonWoodenBarrel_HR3",
+    "Id_Spawner_Props_SkeletonWoodenBarrel_N1",
+    "Id_Spawner_Props_SkeletonWoodenBarrel_N2",
+    "Id_Spawner_Props_SkeletonWoodenBarrel_N3",
+    "Id_Spawner_Props_SkeletonWoodenBarrelRandom_HR1",
+    "Id_Spawner_Props_SkeletonWoodenBarrelRandom_N0",
+    "Id_Spawner_Props_SkeletonWoodenBarrel_HR1",
+    "Id_Spawner_Props_SkeletonWoodenBarrel_N0"
+  ],
+  "Skeleton Bones": [
+    "Id_Spawner_Props_SkeletonBones_HR",
+    "Id_Spawner_Props_SkeletonBones_N",
+    "Id_Spawner_Props_SkeletonBones_G1",
+    "Id_Spawner_Props_SkeletonBones_HR2",
+    "Id_Spawner_Props_SkeletonBones_HR3",
+    "Id_Spawner_Props_SkeletonBones_N1",
+    "Id_Spawner_Props_SkeletonBones_N2",
+    "Id_Spawner_Props_SkeletonBones_N3",
+    "Id_Spawner_Props_SkeletonBones_HR1",
+    "Id_Spawner_Props_SkeletonBones_N0"
+  ],
+  "Skeleton Champion": [
+    "Id_Spawner_Monster_SkeletonChampion",
+    "Id_Spawner_Monster_SkeletonChampion_Elite"
+  ],
+  "Skeleton Corpse": [
+    "Id_Spawner_Props_SkeletonCorpseRandom_HR",
+    "Id_Spawner_Props_SkeletonCorpseRandom_N",
+    "Id_Spawner_Props_SkeletonCorpse_01_HR",
+    "Id_Spawner_Props_SkeletonCorpse_01_N",
+    "Id_Spawner_Props_SkeletonCorpse_02_HR",
+    "Id_Spawner_Props_SkeletonCorpse_02_N",
+    "Id_Spawner_Props_SkeletonCorpse_03_HR",
+    "Id_Spawner_Props_SkeletonCorpse_03_N",
+    "Id_Spawner_Props_SkeletonCorpseRandom_G1",
+    "Id_Spawner_Props_SkeletonCorpseRandom_HR2",
+    "Id_Spawner_Props_SkeletonCorpseRandom_HR3",
+    "Id_Spawner_Props_SkeletonCorpseRandom_N1",
+    "Id_Spawner_Props_SkeletonCorpseRandom_N2",
+    "Id_Spawner_Props_SkeletonCorpseRandom_N3",
+    "Id_Spawner_Props_SkeletonCorpse_01_G1",
+    "Id_Spawner_Props_SkeletonCorpse_01_HR2",
+    "Id_Spawner_Props_SkeletonCorpse_01_HR3",
+    "Id_Spawner_Props_SkeletonCorpse_01_N1",
+    "Id_Spawner_Props_SkeletonCorpse_01_N2",
+    "Id_Spawner_Props_SkeletonCorpse_01_N3",
+    "Id_Spawner_Props_SkeletonCorpse_02_G1",
+    "Id_Spawner_Props_SkeletonCorpse_02_HR2",
+    "Id_Spawner_Props_SkeletonCorpse_02_HR3",
+    "Id_Spawner_Props_SkeletonCorpse_02_N1",
+    "Id_Spawner_Props_SkeletonCorpse_02_N2",
+    "Id_Spawner_Props_SkeletonCorpse_02_N3",
+    "Id_Spawner_Props_SkeletonCorpse_03_G1",
+    "Id_Spawner_Props_SkeletonCorpse_03_HR2",
+    "Id_Spawner_Props_SkeletonCorpse_03_HR3",
+    "Id_Spawner_Props_SkeletonCorpse_03_N1",
+    "Id_Spawner_Props_SkeletonCorpse_03_N2",
+    "Id_Spawner_Props_SkeletonCorpse_03_N3",
+    "Id_Spawner_Props_SkeletonCorpseRandom_HR1",
+    "Id_Spawner_Props_SkeletonCorpseRandom_N0",
+    "Id_Spawner_Props_SkeletonCorpse_01_HR1",
+    "Id_Spawner_Props_SkeletonCorpse_01_N0",
+    "Id_Spawner_Props_SkeletonCorpse_02_HR1",
+    "Id_Spawner_Props_SkeletonCorpse_02_N0",
+    "Id_Spawner_Props_SkeletonCorpse_03_HR1",
+    "Id_Spawner_Props_SkeletonCorpse_03_N0"
+  ],
+  "Skeleton Crossbowman": [
+    "Id_Spawner_Monster_SkeletonCrossbowman",
+    "Id_Spawner_Monster_SkeletonCrossbowman_Easy",
+    "Id_Spawner_Monster_SkeletonCrossbowman_Elite",
+    "Id_Spawner_Monster_SkeletonCrossbowman_Hard",
+    "Id_Spawner_Monster_SkeletonCrossbowman_Medium",
+    "Id_Spawner_Monster_SkeletonCrossbowman_Nightmare"
+  ],
+  "Skeleton Footman": [
+    "Id_Spawner_Monster_SkeletonFootmanFakeDeath",
+    "Id_Spawner_Monster_SkeletonFootmanFakeDeath_Elite",
+    "Id_Spawner_Monster_SkeletonFootmanFakeDeath_Nightmare",
+    "Id_Spawner_Monster_SkeletonFootmanFromFakeDeath_Easy",
+    "Id_Spawner_Monster_SkeletonFootmanFromFakeDeath_Hard",
+    "Id_Spawner_Monster_SkeletonFootmanFromFakeDeath_Medium"
+  ],
+  "Skeleton Guardsman": [
+    "Id_Spawner_Monster_SkeletonGuardmanFromFakeDeath",
+    "Id_Spawner_Monster_SkeletonGuardmanFromFakeDeath_Elite",
+    "Id_Spawner_Monster_SkeletonGuardmanFromFakeDeath_Nightmare",
+    "Id_Spawner_Monster_SkeletonGuardman_Summoned",
+    "Id_Spawner_Monster_SkeletonGuardsmanFromFakeDeath_Easy",
+    "Id_Spawner_Monster_SkeletonGuardsmanFromFakeDeath_Hard",
+    "Id_Spawner_Monster_SkeletonGuardsmanFromFakeDeath_Medium"
+  ],
+  "Skeleton Mage": [
+    "Id_Spawner_Monster_SkeletonMage",
+    "Id_Spawner_Monster_SkeletonMage_Easy",
+    "Id_Spawner_Monster_SkeletonMage_Elite",
+    "Id_Spawner_Monster_SkeletonMage_Hard",
+    "Id_Spawner_Monster_SkeletonMage_Medium",
+    "Id_Spawner_Monster_SkeletonMage_Nightmare"
+  ],
+  "Skeleton Melee": [
+    "Id_Spawner_Monster_SkeletonMelee_5type_Easy",
+    "Id_Spawner_Monster_SkeletonMelee_5type_Hard",
+    "Id_Spawner_Monster_SkeletonMelee_5type_Medium"
+  ],
+  "Skeleton Ranged": [
+    "Id_Spawner_Monster_SkeletonRanged_2type_Easy",
+    "Id_Spawner_Monster_SkeletonRanged_2type_Hard",
+    "Id_Spawner_Monster_SkeletonRanged_2type_Medium"
+  ],
+  "Skeleton Royal Guard": [
+    "Id_Spawner_Monster_SkeletonRoyalGuard"
+  ],
+  "Skeleton Spearman": [
+    "Id_Spawner_Monster_SkeletonSpearman",
+    "Id_Spawner_Monster_SkeletonSpearman_Easy",
+    "Id_Spawner_Monster_SkeletonSpearman_Elite",
+    "Id_Spawner_Monster_SkeletonSpearman_Hard",
+    "Id_Spawner_Monster_SkeletonSpearman_Medium",
+    "Id_Spawner_Monster_SkeletonSpearman_Nightmare"
+  ],
+  "Skeleton Swordman": [
+    "Id_Spawner_Monster_SkeletonSwordman",
+    "Id_Spawner_Monster_SkeletonSwordman_Easy",
+    "Id_Spawner_Monster_SkeletonSwordman_Elite",
+    "Id_Spawner_Monster_SkeletonSwordman_Hard",
+    "Id_Spawner_Monster_SkeletonSwordman_Medium",
+    "Id_Spawner_Monster_SkeletonSwordman_Nightmare"
+  ],
+  "Skeleton Warlord": [
+    "Id_Spawner_Monster_SkeletonWarlord",
+    "Id_Spawner_Monster_SkeletonWarlord_BonePrison",
+    "Id_Spawner_Monster_SkeletonWarlord_Elite"
+  ],
+  "Skeleton Wooden Barrel": [
+    "Id_Spawner_Props_SkeletonWoodenBarrelRandom_HR",
+    "Id_Spawner_Props_SkeletonWoodenBarrelRandom_N",
+    "Id_Spawner_Props_SkeletonWoodenBarrel_HR",
+    "Id_Spawner_Props_SkeletonWoodenBarrel_N"
+  ],
+  "Skull Key": [
+    "Id_Spawner_LootDrop_SkullKey",
+    "Id_Spawner_LootDrop_SkullKey_HR"
+  ],
+  "Skull Room": [
+    "Id_Spawner_Props_SkullStoneDoor",
+    "BP_SkullStoneDoor"
+  ],
+  "Slime": [
+    "Id_Spawner_Monster_Slime"
+  ],
+  "Small Oak Chest": [
+    "Id_Spawner_Props_SimpleChestSmall_HR",
+    "Id_Spawner_Props_SimpleChestSmall_N",
+    "Id_Spawner_Props_SimpleChestSmall_G1",
+    "Id_Spawner_Props_SimpleChestSmall_HR2",
+    "Id_Spawner_Props_SimpleChestSmall_HR3",
+    "Id_Spawner_Props_SimpleChestSmall_N1",
+    "Id_Spawner_Props_SimpleChestSmall_N2",
+    "Id_Spawner_Props_SimpleChestSmall_N3",
+    "Id_Spawner_Props_SimpleChestSmall_HR1",
+    "Id_Spawner_Props_SimpleChestSmall_N0"
+  ],
+  "Small Reinforced Chest": [
+    "Id_Spawner_Props_WoodChestSmall_HR",
+    "Id_Spawner_Props_WoodChestSmall_N",
+    "Id_Spawner_Props_WoodChestSmall_G1",
+    "Id_Spawner_Props_WoodChestSmall_HR2",
+    "Id_Spawner_Props_WoodChestSmall_HR3",
+    "Id_Spawner_Props_WoodChestSmall_N1",
+    "Id_Spawner_Props_WoodChestSmall_N2",
+    "Id_Spawner_Props_WoodChestSmall_N3",
+    "Id_Spawner_Props_WoodChestSmall_HR1",
+    "Id_Spawner_Props_WoodChestSmall_N0"
+  ],
+  "Special Drop": [
+    "Id_Spawner_LootDrop_Weapon_GoldenRoom",
+    "Id_Spawner_LootDrop_Weapon_Legend",
+    "Id_Spawner_LootDrop_Weapon_SkullRoom",
+    "Id_Spawner_LootDrop_Weapon_MysticalTreasureRoom",
+    "Id_Spawner_LootDrop_Accessory_OldRustRoom"
+  ],
+  "Spider Mummy": [
+    "Id_Spawner_Monster_SpiderMummy",
+    "Id_Spawner_Monster_SpiderMummy_Elite",
+    "Id_Spawner_Monster_SpiderMummy_Nightmare"
+  ],
+  "Spider Pot": [
+    "Id_Spawner_Props_SpiderPot",
+    "Id_Spawner_Props_SpiderPot_Easy",
+    "Id_Spawner_Props_SpiderPot_Elite",
+    "Id_Spawner_Props_SpiderPot_Hard",
+    "Id_Spawner_Props_SpiderPot_Medium",
+    "Id_Spawner_Props_SpiderPot_Nightmare"
+  ],
+  "Static Down Portal": [
+    "BP_CryptDown"
+  ],
+  "Static Escape Portal": [
+    "BP_CryptEscape"
+  ],
+  "Stone Tomb": [
+    "Id_Spawner_Props_StoneTomb01_HR",
+    "Id_Spawner_Props_StoneTomb01_N",
+    "Id_Spawner_Props_StoneTomb01_G1",
+    "Id_Spawner_Props_StoneTomb01_HR2",
+    "Id_Spawner_Props_StoneTomb01_HR3",
+    "Id_Spawner_Props_StoneTomb01_N1",
+    "Id_Spawner_Props_StoneTomb01_N2",
+    "Id_Spawner_Props_StoneTomb01_N3",
+    "Id_Spawner_Props_StoneTomb01_HR1",
+    "Id_Spawner_Props_StoneTomb01_N0"
+  ],
+  "Trinkets": [
+    "Id_Spawner_LootDrop_Trinkets_G1",
+    "Id_Spawner_LootDrop_Trinkets_HR2",
+    "Id_Spawner_LootDrop_Trinkets_HR3",
+    "Id_Spawner_LootDrop_Trinkets_N1",
+    "Id_Spawner_LootDrop_Trinkets_N2",
+    "Id_Spawner_LootDrop_Trinkets_N3",
+    "Id_Spawner_LootDrop_Trinkets_HR1",
+    "Id_Spawner_LootDrop_Trinkets_N0"
+  ],
+  "Undead Knight": [
+    "Id_Spawner_Monster_UndeadKnight"
+  ],
+  "Wall Spikes": [
+    "Id_Spawner_Props_WallSpike"
+  ],
+  "Weapon Drop": [
+    "Id_Spawner_LootDrop_Weapon_Common",
+    "Id_Spawner_LootDrop_Weapon_Epic",
+    "Id_Spawner_LootDrop_Weapon_Rare"
+  ],
+  "Wisp": [
+    "Id_Spawner_Monster_Wisp"
+  ],
+  "Wraith": [
+    "Id_Spawner_Monster_Wraith",
+    "Id_Spawner_Monster_Wraith_Elite"
+  ],
+  "Zombie": [
+    "Id_Spawner_Monster_Zombie",
+    "Id_Spawner_Monster_Zombie_Easy",
+    "Id_Spawner_Monster_Zombie_Elite",
+    "Id_Spawner_Monster_Zombie_Hard",
+    "Id_Spawner_Monster_Zombie_Medium",
+    "Id_Spawner_Monster_Zombie_Nightmare"
+  ]
+}
