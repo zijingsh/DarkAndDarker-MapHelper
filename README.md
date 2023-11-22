@@ -6,10 +6,10 @@
 
 ### Whats changed:
 ```
-	  This was made on a 1440 display, you will have to change size/cropping for a different display.
-	  After starting the program, it will locate and find the correct crypt map.
-	  Loop through all json actors and plot them on map (default are Golden Chest's, Health Shines, and Static Escapes)
-	  Click on the map to plot your own point
+  This was made on a 1440 display, you will have to change size/cropping for a different display.
+  After starting the program, it will locate and find the correct crypt map.
+  Loop through all json actors and plot them on map (default are Golden Chest's, Health Shines, and Static Escapes)
+  Click on the map to plot your own point
 ```
 
 ### Notes:
@@ -22,9 +22,9 @@
 
 ### Goals:
 ```
-	  Make this work on any display, selectable objects as on https://darkanddarker.map.spellsandguns.com/map/
-	  Zoom feature
-	  Add Ruins
+  Make this work on any display, selectable objects as on https://darkanddarker.map.spellsandguns.com/map/
+  Zoom feature
+  Add Ruins
 ```
 
 
